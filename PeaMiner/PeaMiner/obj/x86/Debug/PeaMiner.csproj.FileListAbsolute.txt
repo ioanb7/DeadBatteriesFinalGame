@@ -1,0 +1,74 @@
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.exe
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.pdb
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.exe
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.pdb
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\dirt.xnb
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\playerSpawner.xnb
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\pea.xnb
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map1\map.txt
+\\data.adir.hull.ac.uk\home4\484\484327\MyProjects\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map1\map.txt
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\dirt.xnb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\pea.xnb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\playerSpawner.xnb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.exe
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.pdb
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.exe
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.pdb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map1\map.txt
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\dirt.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\pea.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\playerSpawner.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\player.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.exe
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.pdb
+H:\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.csprojResolveAssemblyReference.cache
+H:\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.exe
+H:\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.pdb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\PeasSpriteFont.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\bullet.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\teleporter.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map2\map.txt
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\bus.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\Smoke.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FirePurple.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireRed.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireYellow.xnb
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FirePurple.png
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireRed.png
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireYellow.png
+H:\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\Smoke.png
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map1\map.txt
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Maps\map2\map.txt
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\dirt.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\pea.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\playerSpawner.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\player.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\bullet.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\teleporter.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\bus.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FirePurple.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireRed.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireYellow.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\Smoke.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\PeasSpriteFont.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FirePurple.png
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireRed.png
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\FireYellow.png
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Particles\Smoke.png
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.exe
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\PeaMiner.pdb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.csprojResolveAssemblyReference.cache
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.exe
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\obj\x86\Debug\PeaMiner.pdb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Menu\backgroundMainMenu.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Menu\buttonPlay.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\cursor.xnb
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMiner\bin\x86\Debug\Content\Images\Menu\buttonExit.xnb

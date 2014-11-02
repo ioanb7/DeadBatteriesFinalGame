@@ -1,0 +1,3 @@
+C:\Users\Tyler\Desktop\PeaMiner\PeaMiner\PeaMinerContent\obj\x86\Debug\PeaMinerContent.contentprojResolveAssemblyReference.cache
+H:\PeaMiner\PeaMiner\PeaMinerContent\obj\x86\Debug\PeaMinerContent.contentprojResolveAssemblyReference.cache
+H:\My finals before sleep\PeaMiner\PeaMiner\PeaMinerContent\obj\x86\Debug\PeaMinerContent.contentprojResolveAssemblyReference.cache
